@@ -1,5 +1,6 @@
 start
+egg A
 lap{
-
+if way = A{m A}or {}
 }
 end
