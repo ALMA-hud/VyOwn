@@ -1,5 +1,6 @@
 start 
-egg 5
-egg 5 
-  
-end 
+egg 5 set 5 
+egg 5 set 5 
+5 + 5 set IPA
+m 1 IPA 
+end
