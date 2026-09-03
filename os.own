@@ -1,6 +1,6 @@
 start
 egg A
 lap{
-if way = A{m A}or {}
+if way = A{m A}or way = B{m B} 
 }
 end
