@@ -2,7 +2,5 @@ start
 egg Hello set H
 egg World set W
 ram 0x0001 for 32 set Q
-m H
-m W 
-m Q
+m H , W , Q
 end
