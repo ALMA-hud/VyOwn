@@ -1,6 +1,6 @@
 start
 egg A
-
+ram 0x1000 set m
 lap{
 if way = A{m A}or way = B{m B} 
 }
