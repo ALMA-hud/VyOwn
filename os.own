@@ -1,7 +1,8 @@
 start
 egg A
+egg B
 ram 0x1000 set m
 lap{
-if way = A{m A}or way = B{m B} 
+if way = A{m see A }or way = B{m see B} 
 }
 end
