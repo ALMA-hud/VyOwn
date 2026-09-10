@@ -1,0 +1,15 @@
+start 
+egg 1 set 1
+egg A set A
+1 == A
+1 + A = 1A
+tie {
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+
+}
+end 
