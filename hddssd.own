@@ -1,0 +1,6 @@
+start 
+egg SSD set SSD
+egg HDD set HDD 
+put SSD per 0x4000 set DA
+put HDD per 0x4000 set DA
+end 
