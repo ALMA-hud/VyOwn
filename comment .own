@@ -13,8 +13,10 @@
   ~ Вот так 
   ~ Всем пока ! ! ! 
   ~ До встречи !!!!!!!!!!!!!!
- start 
-  ram 0x0001 for , set i
+ start ~ Да Да 
+  ram 0x0001 for , set i *
+Да Да 
+*
   ram 0x0002 for ! set j 
   egg poka set poka 
   egg ydaci set ydaci 
