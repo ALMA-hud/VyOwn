@@ -9,7 +9,9 @@ VyOwn is designed for writing low level software , such as:
 
 operating systems 
 
-drivers firmware 
+drivers 
+
+firmware 
 
 
 The VyOwn programming language is easy to learn once you have mastered classic Own. 
