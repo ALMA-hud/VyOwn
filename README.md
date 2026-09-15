@@ -22,12 +22,12 @@ Writing and reading VyOwn code is extremely easy, furthermore, VyOwn code is sig
 
 To fully learn the VyOwn programming language, please consult the documentation: 
 
-На Русском: [Руководство](VyOwn.ru.txt)
+На Русском: [Documentation](VyOwn.ru.txt)
 
 
 And VyOwn code examples:
 
-На Русском: [Примеры кода](Examples)
+На Русском: [Code Examples](Examples)
 
 
 COL – Compiler Own Lang, the official compiler for Own languages ​​(currently only VyOwn).
