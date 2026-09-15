@@ -31,7 +31,7 @@ And VyOwn code examples:
 
 
 COL – Compiler Own Lang, the official compiler for Own languages ​​(currently only VyOwn).
-Col compiles code into an intermediate, low-level machine-level assembly language that runs on bare metal; this can subsequently be converted into bootable files and executed on emulators or actual hardware.
+Col compiles code into an intermediate, low-level machine-level assembly language that runs on bare metal, this can subsequently be converted into bootable files and executed on emulators or actual hardware.
 
 COL source code:
 
