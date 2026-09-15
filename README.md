@@ -35,4 +35,4 @@ Col compiles code into an intermediate, low-level machine-level assembly languag
 
 COL source code:
 
-На Русском [Compiler](COL).
+На Русском: [Compiler](COL).
