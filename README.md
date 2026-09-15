@@ -22,7 +22,9 @@ Writing and reading VyOwn code is extremely easy, furthermore, VyOwn code is sig
 
 To fully learn the VyOwn programming language, please consult the documentation: 
 
-In Russian: [VyOwn.ru.txt](VyOwn.ru.txt)
+На Русском: [Руководство](VyOwn.ru.txt)
 
 
 And VyOwn code examples:
+
+На Русском: [Примеры кода](Examples)
