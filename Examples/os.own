@@ -1,8 +1,7 @@
 start
 egg A
 egg B
-ram 0x1000 set m
 lap{
-if way 0x2000 = A{m see A }or way 0x2000 = B{m see B} 
+if way 0x2000 = A{0x1000 see A }or way 0x2000 = B{m see B} 
 }
 end
